@@ -1,2 +1,2 @@
 # elkina-natalia.github.io
-Сайт-визитка HTML, CSS
+Сайт-визитка HTML, CSS, JS
